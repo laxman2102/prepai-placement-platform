@@ -1,0 +1,6 @@
+{
+  "name": "AI Placement Preparation Platform",
+  "description": "Comprehensive AI-driven campus placement prep platform with Student, Mentor, and Admin roles, Aptitude & Coding practice, Technical Q&A bank, AI Mock Interviews, Resume Analyzer, and AI Learning Paths.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
